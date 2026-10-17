@@ -2,7 +2,7 @@
 
 A [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin that lets you keep the picture on the Steam Deck screen while it sits in a dock with a monitor attached — so the dock can be used just as a charger, without unplugging the cable.
 
-[Русская версия ниже](#русский)
+[Русская версия ниже](#русский) · Mirror: [GitFlic](https://gitflic.ru/project/kernine/dock-display)
 
 ## Features
 
