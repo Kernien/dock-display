@@ -6,6 +6,6 @@
   "publish": {
     "tags": ["display", "dock", "root"],
     "description": "Keep the picture on the Steam Deck screen while docked, using the dock only for charging.",
-    "image": "https://opengraph.githubassets.com/1/Kernien/dock-display"
+    "image": "https://raw.githubusercontent.com/Kernien/dock-display/main/assets/preview.png"
   }
 }
